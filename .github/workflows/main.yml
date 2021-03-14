@@ -9,8 +9,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-
       # Run Linter
       - name: Run linter
         uses: hexlet/project-action@release
