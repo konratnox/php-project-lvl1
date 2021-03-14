@@ -2,8 +2,7 @@ name: CI
 
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
 
 jobs:
   build:
@@ -11,6 +10,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      # Run Linter
       - name: Run linter
+        # Run Linter
         run: make lint
