@@ -16,3 +16,10 @@
 `make brain-calc`
 
 [![asciicast](https://asciinema.org/a/5LvlazEpFkGa59kKRGmK21Jx9.svg)](https://asciinema.org/a/5LvlazEpFkGa59kKRGmK21Jx9)
+
+### Brain-gcd
+Определение наибольшего общего делителя.
+
+`make brain-gcd`
+
+[![asciicast](https://asciinema.org/a/aS2qwNfGcvplVp28j2vzYpK8R.svg)](https://asciinema.org/a/aS2qwNfGcvplVp28j2vzYpK8R)

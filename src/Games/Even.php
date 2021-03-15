@@ -2,7 +2,7 @@
 
 namespace BrainGames\Games\Even;
 
-use function BrainGames\Games\Engine\run;
+use function BrainGames\Engine\run;
 
 const GAME_TASK = 'Answer "yes" if the number is even, otherwise answer "no".';
 
