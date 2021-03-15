@@ -5,4 +5,14 @@
 
 ### Brain-even
 Определение четного числа.
+
+`make brain-even`
+
 [![asciicast](https://asciinema.org/a/399204.svg)](https://asciinema.org/a/399204)
+
+### Brain-calc
+Калькулятор. Арифметические выражения, которые необходимо вычислить.
+
+`make brain-calc`
+
+[![asciicast](https://asciinema.org/a/5LvlazEpFkGa59kKRGmK21Jx9.svg)](https://asciinema.org/a/5LvlazEpFkGa59kKRGmK21Jx9)
