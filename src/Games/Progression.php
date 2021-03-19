@@ -24,7 +24,7 @@ function generateProgression(int $startNumber, int $step): array
     return $result;
 }
 
-function getStep(int $minStep, $maxStep): int
+function getStep(int $minStep, int $maxStep): int
 {
     return mt_rand($minStep, $maxStep);
 }
@@ -56,7 +56,7 @@ function getGameData(): array
     return [$question, (string)$rightAnswer];
 }
 
-function play()
+function play(): void
 {
     run(fn() => getGameData(), GAME_TASK);
 }

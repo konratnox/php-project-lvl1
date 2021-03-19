@@ -28,7 +28,7 @@ function getGameData(): array
     return [$number, $rightAnswer];
 }
 
-function play()
+function play(): void
 {
     run(fn() => getGameData(), GAME_TASK);
 }

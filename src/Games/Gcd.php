@@ -38,7 +38,7 @@ function getGameData(): array
     return [$question, (string) $gcd];
 }
 
-function play()
+function play(): void
 {
     run(fn() => getGameData(), GAME_TASK);
 }

@@ -50,7 +50,7 @@ function getGameData(): array
     return [$question, (string) $rightAnswer];
 }
 
-function play()
+function play(): void
 {
     run(fn() => getGameData(), GAME_TASK);
 }
