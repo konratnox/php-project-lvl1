@@ -30,3 +30,10 @@
 `make brain-progression`
 
 [![asciicast](https://asciinema.org/a/kmIaTqBp161RjN2HlFTi1RvY7.svg)](https://asciinema.org/a/kmIaTqBp161RjN2HlFTi1RvY7)
+
+### Brain-prime
+Необходимо определить простое ли число.
+
+`make brain-prime`
+
+[![asciicast](https://asciinema.org/a/TCbVsxkQuNXcCkYOiePzZ63Ix.svg)](https://asciinema.org/a/TCbVsxkQuNXcCkYOiePzZ63Ix)
