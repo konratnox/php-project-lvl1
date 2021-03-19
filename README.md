@@ -23,3 +23,10 @@
 `make brain-gcd`
 
 [![asciicast](https://asciinema.org/a/aS2qwNfGcvplVp28j2vzYpK8R.svg)](https://asciinema.org/a/aS2qwNfGcvplVp28j2vzYpK8R)
+
+### Brain-progression
+Определение числа в арифметической прогрессии.
+
+`make brain-progression`
+
+[![asciicast](https://asciinema.org/a/kmIaTqBp161RjN2HlFTi1RvY7.svg)](https://asciinema.org/a/kmIaTqBp161RjN2HlFTi1RvY7)
