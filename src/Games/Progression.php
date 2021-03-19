@@ -39,7 +39,7 @@ function generateQuestion(array $progression): array
     $elemIndex = array_rand($progression);
     $answer = $progression[$elemIndex];
     $question = $progression;
-    $question[$elemIndex] = '...';
+    $question[$elemIndex] = '..';
     $question = implode(' ', $question);
     return [
         $question,
